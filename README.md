@@ -54,11 +54,10 @@ Requirement:
 
 The example of the file format is as follows;
 
-=== example.txt ===
+# example.txt 
 A 0 3 2
 B 1 2 3 
 C 2 2 2
-===================
 
 For the first line of the input file represents process A with an arrival time of 0, service time of 3, and deadline value of 2.
 
